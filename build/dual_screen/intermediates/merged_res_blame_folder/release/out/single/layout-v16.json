@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.dual_screen-merged_res-8:/layout-v16/notification_template_custom_big.xml",
+        "source": "com.example.dual_screen-core-1.6.0-0:/layout-v16/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,12 @@
+com.example.dual_screen-core-1.6.0-0 C:\Users\smlee\.gradle\caches\transforms-3\4294073fb94ab3be7ebdf30f9c07fc17\transformed\core-1.6.0\res
+com.example.dual_screen-jetified-window-java-1.0.0-beta04-1 C:\Users\smlee\.gradle\caches\transforms-3\7ff6ec34ccc02a1048a650cbdd4353f6\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.dual_screen-jetified-annotation-experimental-1.1.0-2 C:\Users\smlee\.gradle\caches\transforms-3\861bec9341e00456f3cf5e60e7ad9ec9\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dual_screen-jetified-window-1.0.0-beta04-3 C:\Users\smlee\.gradle\caches\transforms-3\8bb6eb3bba5a926f0cf42094d44e6b20\transformed\jetified-window-1.0.0-beta04\res
+com.example.dual_screen-pngs-4 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\generated\res\pngs\release
+com.example.dual_screen-resValues-5 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\generated\res\resValues\release
+com.example.dual_screen-rs-6 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\generated\res\rs\release
+com.example.dual_screen-mergeReleaseResources-7 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.dual_screen-mergeReleaseResources-8 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.dual_screen-merged_res-9 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\dual_screen\intermediates\merged_res\release
+com.example.dual_screen-main-10 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\dual_screen-1.0.4\android\src\main\res
+com.example.dual_screen-release-11 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\dual_screen-1.0.4\android\src\release\res

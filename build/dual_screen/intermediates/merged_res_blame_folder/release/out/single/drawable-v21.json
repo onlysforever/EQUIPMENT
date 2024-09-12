@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.dual_screen-merged_res-8:/drawable-v21/notification_action_background.xml",
+        "source": "com.example.dual_screen-core-1.6.0-0:/drawable-v21/notification_action_background.xml"
+    }
+]

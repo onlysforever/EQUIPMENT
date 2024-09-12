@@ -1,0 +1,15 @@
+carnegietechnologies.gallery_saver-core-1.6.0-0 C:\Users\smlee\.gradle\caches\transforms-3\4294073fb94ab3be7ebdf30f9c07fc17\transformed\core-1.6.0\res
+carnegietechnologies.gallery_saver-jetified-core-ktx-1.5.0-1 C:\Users\smlee\.gradle\caches\transforms-3\45366734f958ec87a45f2e906f29dac0\transformed\jetified-core-ktx-1.5.0\res
+carnegietechnologies.gallery_saver-jetified-window-java-1.0.0-beta04-2 C:\Users\smlee\.gradle\caches\transforms-3\7ff6ec34ccc02a1048a650cbdd4353f6\transformed\jetified-window-java-1.0.0-beta04\res
+carnegietechnologies.gallery_saver-jetified-annotation-experimental-1.1.0-3 C:\Users\smlee\.gradle\caches\transforms-3\861bec9341e00456f3cf5e60e7ad9ec9\transformed\jetified-annotation-experimental-1.1.0\res
+carnegietechnologies.gallery_saver-jetified-window-1.0.0-beta04-4 C:\Users\smlee\.gradle\caches\transforms-3\8bb6eb3bba5a926f0cf42094d44e6b20\transformed\jetified-window-1.0.0-beta04\res
+carnegietechnologies.gallery_saver-coordinatorlayout-1.0.0-5 C:\Users\smlee\.gradle\caches\transforms-3\e264a70aeaa49a8a9c46dc2cbf1d4d82\transformed\coordinatorlayout-1.0.0\res
+carnegietechnologies.gallery_saver-media-1.0.0-6 C:\Users\smlee\.gradle\caches\transforms-3\f21e6b10aa1eee204455c872c4d733aa\transformed\media-1.0.0\res
+carnegietechnologies.gallery_saver-pngs-7 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\generated\res\pngs\release
+carnegietechnologies.gallery_saver-resValues-8 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\generated\res\resValues\release
+carnegietechnologies.gallery_saver-rs-9 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\generated\res\rs\release
+carnegietechnologies.gallery_saver-mergeReleaseResources-10 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\intermediates\incremental\release\mergeReleaseResources\merged.dir
+carnegietechnologies.gallery_saver-mergeReleaseResources-11 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+carnegietechnologies.gallery_saver-merged_res-12 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\gallery_saver\intermediates\merged_res\release
+carnegietechnologies.gallery_saver-main-13 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver-2.3.2\android\src\main\res
+carnegietechnologies.gallery_saver-release-14 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\gallery_saver-2.3.2\android\src\release\res

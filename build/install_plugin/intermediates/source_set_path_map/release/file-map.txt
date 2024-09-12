@@ -1,0 +1,14 @@
+com.example.installplugin.install_plugin-core-1.6.0-0 C:\Users\smlee\.gradle\caches\transforms-3\4294073fb94ab3be7ebdf30f9c07fc17\transformed\core-1.6.0\res
+com.example.installplugin.install_plugin-jetified-window-java-1.0.0-beta04-1 C:\Users\smlee\.gradle\caches\transforms-3\7ff6ec34ccc02a1048a650cbdd4353f6\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.installplugin.install_plugin-jetified-annotation-experimental-1.1.0-2 C:\Users\smlee\.gradle\caches\transforms-3\861bec9341e00456f3cf5e60e7ad9ec9\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.installplugin.install_plugin-jetified-window-1.0.0-beta04-3 C:\Users\smlee\.gradle\caches\transforms-3\8bb6eb3bba5a926f0cf42094d44e6b20\transformed\jetified-window-1.0.0-beta04\res
+com.example.installplugin.install_plugin-coordinatorlayout-1.0.0-4 C:\Users\smlee\.gradle\caches\transforms-3\e264a70aeaa49a8a9c46dc2cbf1d4d82\transformed\coordinatorlayout-1.0.0\res
+com.example.installplugin.install_plugin-media-1.0.0-5 C:\Users\smlee\.gradle\caches\transforms-3\f21e6b10aa1eee204455c872c4d733aa\transformed\media-1.0.0\res
+com.example.installplugin.install_plugin-pngs-6 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\generated\res\pngs\release
+com.example.installplugin.install_plugin-resValues-7 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\generated\res\resValues\release
+com.example.installplugin.install_plugin-rs-8 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\generated\res\rs\release
+com.example.installplugin.install_plugin-mergeReleaseResources-9 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.installplugin.install_plugin-mergeReleaseResources-10 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.installplugin.install_plugin-merged_res-11 C:\Users\smlee\AndroidStudioProjects\EQUIPMENT\build\install_plugin\intermediates\merged_res\release
+com.example.installplugin.install_plugin-main-12 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\install_plugin-2.1.0\android\src\main\res
+com.example.installplugin.install_plugin-release-13 C:\Users\smlee\AppData\Local\Pub\Cache\hosted\pub.dev\install_plugin-2.1.0\android\src\release\res

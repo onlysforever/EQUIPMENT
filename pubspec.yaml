@@ -1,0 +1,100 @@
+name: seoyoneh_equipment
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.2.2
+# 현재 버전 관리 기준이 3자리 기준이므로 x.x.9 버전 이후 버전 업그레이드 시 x.x+1.0 으로 버전 설정
+# 올바른 예) 1.0.9 -> 1.1.0, 1.1.9 -> 1.2.0
+# 잘못된 예) 1.0.9 -> 1.0.10, 1.1.9 -> 1.1.10 
+
+environment:
+  sdk: '>=2.19.0-467.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  yaml: ^3.1.2
+  permission_handler: ^10.1.0
+  install_plugin: ^2.1.0
+  cupertino_icons: ^1.0.2
+  http: ^0.13.4
+  qr_code_scanner: ^1.0.1
+  image_picker: ^0.8.7+5
+  cached_network_image: ^3.2.3
+  dropdown_button2: ^1.9.4
+  data_table_2: ^2.5.1
+  shared_preferences: ^2.1.2
+  dual_screen: ^1.0.4
+  url_launcher: ^6.1.11
+  freedom_table: ^0.3.6+3
+  xml2json: ^6.1.0
+  encrypt: ^5.0.1
+  intl: ^0.18.1
+  flutter_svg: ^1.1.6
+  gallery_saver: ^2.3.2
+  path_provider: ^2.0.15
+  flutter_toastr: ^1.0.3
+  pinch_zoom: ^1.0.0
+  open_filex: ^4.3.4
+  dio: ^5.4.0
+  flutter_barcode_scanner: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/
+    - pubspec.yaml
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: NanumGothic
+      fonts:
+        - asset: fonts/NanumBarunGothic.ttf
+
+    - family: NanumGothicBold
+      fonts:
+        - asset: fonts/NanumBarunGothicBold.ttf
+
+    - family: NanumGothicExtraBold
+      fonts:
+        - asset: fonts/NanumGothicExtraBold.ttf
+
+    - family: NanumGothicLight
+      fonts:
+        - asset: fonts/NanumBarunGothicLight.ttf
+        
+    - family: NanumGothicUltraLight
+      fonts:
+        - asset: fonts/NanumBarunGothicUltraLight.ttf
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

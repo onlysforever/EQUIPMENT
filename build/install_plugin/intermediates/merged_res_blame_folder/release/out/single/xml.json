@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.installplugin.install_plugin-merged_res-10:/xml/provider_install_paths.xml",
+        "source": "com.example.installplugin.install_plugin-main-11:/xml/provider_install_paths.xml"
+    }
+]
